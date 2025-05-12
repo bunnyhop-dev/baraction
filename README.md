@@ -1,5 +1,7 @@
 # Baraction.sh สำหรับ Spectrwm (BlackArch Linux)  
 
+![showcase](https://raw.githubusercontent.com/bunnyhop-dev/baraction/refs/heads/main/2025-05-13-010328_1920x1080_scrot.png)
+
 ## คำอธิบาย  
 `baraction.sh` เป็นสคริปต์ที่ใช้แสดงข้อมูลสถานะต่างๆ บนแถบสถานะของ Spectrwm เช่น การใช้ CPU, RAM, อุณหภูมิ ฯลฯ  
 
